@@ -1,10 +1,10 @@
 <html>
 <body>
-<title> ANSHUL AGRAWAL (TYPE YOUR NAME AS TITLE )</title>
+<title> Sakshi Nakhate 3f08357f</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
-$correctnumber=36; //change this number //
+$correctnumber=62; //change this number //
 
 if($_GET['guess'])
 {
